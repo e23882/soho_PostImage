@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\PostImage.exe.config
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\PostImage.exe
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\PostImage.pdb
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.Form1.resources
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.Properties.Resources.resources
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.exe
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.pdb
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leo\source\repos\PostImage\PostImage\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.csproj.CopyComplete
+C:\Users\Leo\source\repos\PostImage\PostImage\obj\Debug\PostImage.csprojResolveAssemblyReference.cache
